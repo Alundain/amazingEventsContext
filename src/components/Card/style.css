@@ -1,0 +1,40 @@
+.dark-card {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .card-body .card {
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .dark-card .card-img-top {
+    margin: auto;
+  }
+  
+  .card-title {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .card-text {
+    color: #ccc;
+  }
+  
+  .btn {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    margin-top: auto;
+  }
+  
+  .btn:hover {
+    background-color: #333;
+  }
+  

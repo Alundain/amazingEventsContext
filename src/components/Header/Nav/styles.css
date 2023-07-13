@@ -1,0 +1,21 @@
+.navbar {
+    padding: 10px;
+}
+
+.form-check-label {
+    margin-right: 5px;
+}
+
+.text-right {
+    display: flex;
+    align-items: center;
+}
+
+.text-right .form-inline {
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+.text-right .form-inline .form-control {
+    margin-right: 5px;
+}
